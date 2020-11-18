@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function handler(req, res) {\n  return res.send(req.query.word);\n}","map":null,"metadata":{},"sourceType":"module"}
